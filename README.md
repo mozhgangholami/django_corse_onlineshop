@@ -1,0 +1,1 @@
+# django_corse_onlineshop
